@@ -88,7 +88,7 @@ nav .dropdown-content a:hover {
     margin: 0 auto;
     font-family: 'Alice', serif;
     color: black;
-    line-height: 1.8;
+    line-height: 1.5;
     font-size: 20px;
 }
 
@@ -100,7 +100,7 @@ nav .dropdown-content a:hover {
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 1.5px;
-    padding-top: 100px;
+    padding-top: 75px;
 }
 
 .body-container p {
@@ -110,7 +110,7 @@ nav .dropdown-content a:hover {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 500;
 }   
 
@@ -172,7 +172,7 @@ nav .dropdown-content a:hover {
 .card-text {
     font-family: 'Alice', serif;
     color: black;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 10px;
     text-align: center; 
 }
@@ -203,11 +203,11 @@ nav .dropdown-content a:hover {
     color: black;
     padding: 10px 20px;
     border-radius: 55px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .text-muted{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .body-container {
