@@ -18,6 +18,11 @@ header h1 {
     padding: 20px;
 }
 
+.logo {
+    text-decoration: none;
+    color: black;
+}
+
 .image-container {
     position: relative;
     overflow: hidden;
@@ -111,7 +116,7 @@ nav .dropdown-content a:hover {
 
 .body-container h3{
     font-family: 'Raleway', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     color: #a28769 !important;
     margin-bottom: 30px;
     text-transform:none;
@@ -135,7 +140,7 @@ nav .dropdown-content a:hover {
     list-style-type: disc;
     margin-left: 40px; 
     padding-left: 20px; 
-    font-size: 25px; 
+    font-size: 18px; 
     font-weight: 500; 
     line-height: 1.5; 
 }
