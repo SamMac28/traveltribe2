@@ -46,6 +46,7 @@ nav {
     background-color: #E9DDC7;
     padding: 10px;
     width: 100%;
+    box-sizing: border-box
 }
 
 nav a {
@@ -111,7 +112,7 @@ nav .dropdown-content a:hover {
 
 .body-container h2, h3{
     font-family: 'Raleway', sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     color: #a28769 !important;
     margin-bottom: 30px;
     text-transform: uppercase;
@@ -122,7 +123,7 @@ nav .dropdown-content a:hover {
 
 .body-container h3{
     font-family: 'Raleway', sans-serif;
-    font-size: 40px;
+    font-size: 25px;
     color: #a28769 !important;
     margin-bottom: 30px;
     text-transform:none;
@@ -138,7 +139,7 @@ nav .dropdown-content a:hover {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -146,7 +147,7 @@ nav .dropdown-content a:hover {
     list-style-type: disc;
     margin-left: 40px; 
     padding-left: 20px; 
-    font-size: 30px; 
+    font-size: 25px; 
     font-weight: 500; 
     line-height: 1.5; 
 }
