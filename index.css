@@ -33,7 +33,7 @@ nav {
 
 nav a {
     font-family: 'Alice', serif;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 500;
     color: black;
     text-decoration: none;
@@ -76,7 +76,7 @@ nav .dropdown-content a:hover {
 .search-container input[type="text"] {
     padding: 5px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     border: none;
     border-radius: 55px;
     -webkit-text-fill-color: black;
@@ -110,7 +110,7 @@ nav .dropdown-content a:hover {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    font-size: 32px;
+    font-size: 25px;
     font-weight: 500;
 }   
 
@@ -165,14 +165,14 @@ nav .dropdown-content a:hover {
 .card-title {
     font-family: 'Alice', serif;
     color: black;
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
 .card-text {
     font-family: 'Alice', serif;
     color: black;
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 10px;
     text-align: center; 
 }
@@ -203,11 +203,11 @@ nav .dropdown-content a:hover {
     color: black;
     padding: 10px 20px;
     border-radius: 55px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .text-muted{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .body-container {
