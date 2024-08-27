@@ -150,7 +150,9 @@ nav .dropdown-content a:hover {
     font-weight: 500; 
     line-height: 1.5; 
 }
-
+li{
+    font-size: 18px;
+}
 .body-container ul li {
     margin-bottom: 15px; 
 }
